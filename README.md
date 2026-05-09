@@ -47,6 +47,7 @@ Developer (VS Code)
   Custom Domain + Managed SSL
   https://www.mustydevops.com.ng
 ```
+<img width="2245" height="1285" alt="Architectural_Overview" src="https://github.com/user-attachments/assets/66585144-f070-4de6-9aac-48c426126f51" />
 
 ---
 
